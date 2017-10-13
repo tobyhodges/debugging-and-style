@@ -24,12 +24,12 @@ think about might include
 
 #### First Application
 
-Now run the script on `exampleSequences1.fasta`
+Now run the script on `example_sequences1.fasta`
  - Has this made you notice any more improvements that could be made?
 
 #### Exposure to The Real World
 
-What about if you run the script on `exampleSequences2.fasta`? Does this help you
+What about if you run the script on `example_sequences2.fasta`? Does this help you
 to notice any additional improvements that could be made?
 
 #### Improving the Script
@@ -51,7 +51,8 @@ this exercise.)
 
 If you have time, try to further adapt the script to expand its functionality
 such that, given a file of protein sequences instead, it will produce counts of
-the different amino acids.
+the different amino acids. You can use the file `protein_sequences.fasta` to
+test your script.
 
 #### *FASTA Format
 
