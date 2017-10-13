@@ -3,7 +3,7 @@
 __Materials for an exercise on debugging and coding in Python.__
 
 The file `script1.py` is a Python script that has been written to calculate
-statistics about DNA sequences described in a [FASTA file*](#*FASTA_Format).
+statistics about DNA sequences described in a [FASTA file*](#fasta-format).
 
 Download or `git clone` this repository and then follow the instructions below.
 
