@@ -1,5 +1,0 @@
-Heidelberg	Germany
-Hamburg	Germany
-Grenoble	France
-Monterotondo	Italy
-Hinxton	United Kingdom
