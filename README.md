@@ -9,7 +9,7 @@ Download or `git clone` this repository and then follow the instructions below.
 
 ## The Exercise
 
-#### Introduction
+### Introduction
 
 __Before__ you look at the sequence files in this repository, open the script in
 your favourite editor and discuss ways in which it could be improved. Things to
@@ -22,17 +22,17 @@ think about might include
  - What problems can you foresee, if the script were to be shared with others or
  applied to a different sequence file?
 
-#### First Application
+### First Application
 
 Now run the script on `example_sequences1.fasta`
  - Has this made you notice any more improvements that could be made?
 
-#### Exposure to The Real World
+### Exposure to The Real World
 
 What about if you run the script on `example_sequences2.fasta`? Does this help you
 to notice any additional improvements that could be made?
 
-#### Improving the Script
+### Improving the Script
 
 Make a copy of the script (or start from scratch if you prefer!) and make as
 many improvements to the code as you think are necessary to make it
@@ -47,7 +47,7 @@ many improvements to the code as you think are necessary to make it
 object classes to work with sequence objects. Please avoid using the library for
 this exercise.)
 
-#### Adapting the Script
+### Adapting the Script
 
 If you have time, try to further adapt the script to expand its functionality
 such that, given a file of protein sequences instead, it will produce counts of
