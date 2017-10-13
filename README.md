@@ -3,7 +3,7 @@
 __Materials for an exercise on debugging and coding in Python.__
 
 The file `script1.py` is a Python script that has been written to calculate
-statistics about DNA sequences described in a FASTA file*.
+statistics about DNA sequences described in a [FASTA file*](#*FASTA_Format).
 
 Download or `git clone` this repository and then follow the instructions below.
 
@@ -27,7 +27,7 @@ Download or `git clone` this repository and then follow the instructions below.
 (__Note:__ You may be aware that the Biopython library includes functions and object classes to work with sequence objects. Please avoid using the library for these exercises.)
 5. If you have time, try to further adapt the script to expand its functionality such that, given a file of protein sequences instead, it will produce counts of the different amino acids.
 
-#### *The FASTA format
+#### *FASTA Format
 
 FASTA is a file format designed to hold information about biological sequence
 molecules. Generally speaking, there are three different types of molecule that
