@@ -2,6 +2,18 @@
 
 __Materials for an exercise on debugging and coding in Python.__
 
+The file __`dna_stats.py`__ is an improved and more robust version of the program
+first written in `script1.py`. This script is _not perfect_ (e.g. there is no test
+to check that the provided file is actually in FASTA format), but includes examples
+of a few approaches that can be taken to improve a Python script:
+
+- annotation by comments
+- function definitions, placed at the beginning of the script
+- use of `argparse` for command line interface
+- `try:except` block to test for incorrect argument values and provide custom error
+logging info
+- use of `collections.OrderedDict` for most effective data collection/storage
+
 The file `script1.py` is a Python script that has been written to calculate
 statistics about DNA sequences described in a [FASTA file*](#fasta-format).
 
